@@ -17,7 +17,6 @@ def hopper
      }
 graceHash = programmer_hash[:grace_hopper]
 p graceHash
-
 end
 
 def alan_kay_is_known_for
